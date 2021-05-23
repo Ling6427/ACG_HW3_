@@ -10,3 +10,5 @@
 ## PART2 Poisson seamless cloning
 ---------------------------------------
 ![image](https://raw.githubusercontent.com/Ling6427/ACG_HW3_/master/output/TWO.png)
+---------------------------------------
+![image](https://raw.githubusercontent.com/Ling6427/ACG_HW3_/master/output/THREE.png)
